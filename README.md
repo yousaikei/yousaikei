@@ -1,16 +1,18 @@
-### Hi there 👋
+# About me
 
-<!--
-**yousaikei/yousaikei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## YANG ZAIQI(ヨウ　サイケイ)（29)
 
-Here are some ideas to get you started:
+### 2024年新入社員
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 中国寧夏省　出身
+
+## 興味
+
+### バイク（ホンダrebel 250）、撮影（ニコン）、旅行
+
+## 経歴
+
+### 大連民族大学　電子情報工学部　卒
+
+### 北九州市立大学大学院　国際環境工学研究科　情報工学専攻　卒
+
